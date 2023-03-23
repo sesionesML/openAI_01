@@ -1,0 +1,14 @@
+
+Para realizar una copia de seguridad de una base de datos Oracle, hay varias opciones disponibles. Una de ellas es utilizar el comando expdp (Export Database). Este comando genera un archivo de exportaci�n que contiene toda la informaci�n necesaria para restaurar la base de datos, como tablas, �ndices, vistas, procedimientos almacenados, etc.
+
+Otra opci�n es utilizar el comando RMAN (Recovery Manager). Este comando permite crear una copia de seguridad completa de la base de datos, incluyendo todos los archivos de datos, archivos de control y archivos de red. Esta copia de seguridad se puede almacenar en un disco local o en un servidor remoto.
+
+Adem�s, Oracle tambi�n ofrece una herramienta de copia de seguridad denominada Data Pump, que es una alternativa a expdp. Esta
+---------------
+Para guardar texto con acentos usando el método write() de Python, es necesario especificar el parámetro de codificación. Esto se hará de la siguiente manera:
+
+```
+with open("archivo.txt", "w", encoding="utf8") as archivo:
+    archivo.write("Mi texto con acentos")
+```
+---------------

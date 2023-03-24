@@ -12,3 +12,8 @@ with open("archivo.txt", "w", encoding="utf8") as archivo:
     archivo.write("Mi texto con acentos")
 ```
 ---------------
+
+DevOps es una metodología de trabajo que se centra en la optimización de la entrega de software, mientras que Azure ML es un servicio de Microsoft para el desarrollo y el entrenamiento de modelos de aprendizaje automático.
+
+Ambas herramientas tienen su lugar en el desarrollo de un proyecto de Machine Learning con MlOps. DevOps se utiliza para acelerar el desarrollo, la implementación y el mantenimiento del software, mientras que Azure ML se utiliza para el entrenamiento, la implementación y el monitoreo de los modelos de aprendizaje automático. Por lo tanto, dependiendo de la necesidad, uno puede elegir entre DevOps o Azure ML para desarrollar un proyecto de Machine Learning con MlOps.
+---------------
